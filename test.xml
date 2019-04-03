@@ -1,0 +1,4 @@
+<Node name=webpage color=green>This is a page</Node>
+<Parent name=me><Child name=you>This is the child</Child></Parent>
+<Parent name=me><Child name=you>This is the child</Child><Child name=other>another child</Child></Parent>
+<Parent name=me><Child name=you><Child name=somebodyelse>I am a grandchild</Child></Child></Parent>
